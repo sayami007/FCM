@@ -20,15 +20,14 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Button btnShowToken = (Button) findViewById(R.id.showToken);
-//        btnShowToken.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View view) {
-//                //GET THE TOKEN
-//                String token = FirebaseInstanceId.getInstance().getToken();
-//                Log.v(TAG, "Token:" + token);
-//
-//            }
-//        });
-        System.out.println("MainActivity.onCreate: " + FirebaseInstanceId.getInstance().getToken());
+        btnShowToken.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                //GET THE TOKEN
+                String token = FirebaseInstanceId.getInstance().getToken();
+                Log.v(TAG, "Token:" + token);
+
+            }
+        });
     }
 }
