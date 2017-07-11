@@ -1,0 +1,7 @@
+#Tue Jul 11 14:37:48 NPT 2017
+base.0=/Users/Bibesh/3C_Android/FirebaseNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5c7bea5de55bf0e78adb56be60b0d19706393593
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Bibesh/3C_Android/FirebaseNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bdfee43384a60f16d61a668c9e62270ab4d653f8/classes.dex
+base.1=/Users/Bibesh/3C_Android/FirebaseNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bdfee43384a60f16d61a668c9e62270ab4d653f8
+file.0=/Users/Bibesh/3C_Android/FirebaseNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5c7bea5de55bf0e78adb56be60b0d19706393593/classes.dex

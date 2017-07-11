@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Bibesh/3C_Android/FirebaseNotification/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/Bibesh/3C_Android/FirebaseNotification/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/Bibesh/3C_Android/FirebaseNotification/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/Bibesh/3C_Android/FirebaseNotification/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

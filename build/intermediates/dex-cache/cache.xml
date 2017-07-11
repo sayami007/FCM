@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Bibesh/.android/build-cache/0d431aaac2199a8ecb24d8a2e14d3025c30870b0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f260cdc1a267b17b911022919f19d568e6624229">
+        <dex dex="/Users/Bibesh/3C_Android/FirebaseNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0421b07a893a76d74812e25ae0c6c5fb60fa36c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bibesh/.android/build-cache/4f2e9b07d33461cedef5b81c85173005b35739d1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="/Users/Bibesh/3C_Android/FirebaseNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b260d7c040f1fdd035b9b767f9e30dc9ac52efab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bibesh/.android/build-cache/d8060afb7f56f5cbcf8fd4e0eb39603a81cc8c60/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fc5624185d414a0f572bfb3df7d841ceb335aef9">
+        <dex dex="/Users/Bibesh/3C_Android/FirebaseNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ad4914843909f9b35a6fc209d85ef203c251e82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bibesh/.android/build-cache/146482d928dbdf51f1f2ac9c40fd104d94bd8df2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="/Users/Bibesh/3C_Android/FirebaseNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e51ef9303ba872bcbe42a41abc9154cb08df71db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bibesh/3C_Android/FirebaseNotification/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Bibesh/3C_Android/FirebaseNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5c7bea5de55bf0e78adb56be60b0d19706393593/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bibesh/3C_Android/FirebaseNotification/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="287986c933850c8880212220b1f59095385f90b0">
+        <dex dex="/Users/Bibesh/3C_Android/FirebaseNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bdfee43384a60f16d61a668c9e62270ab4d653f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bibesh/.android/build-cache/b73631f41a877c2f1d7ee1bd8e3b0925dd92a1dc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2737331564e0084fc0eb30ba500564a6dbe5e98f">
+        <dex dex="/Users/Bibesh/3C_Android/FirebaseNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fc0d30ecfcb35fe6782a6541bb5df826536b3d0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bibesh/.android/build-cache/cfa357fd3d7388c06ffe00765ff081027fbf0343/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9a6350134db98fb39e212ddca5f0bad9280e8f3f">
+        <dex dex="/Users/Bibesh/3C_Android/FirebaseNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1f21ccb412101960e96e4bc1fc2bc41f09c14dbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bibesh/.android/build-cache/f9e04c520fb96249ef05b5e8e76279ff409ddcef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2c1d9fbe7d2f686b3dcdbc3f63a983a211401ca3">
+        <dex dex="/Users/Bibesh/3C_Android/FirebaseNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b8062f545629434b6d8146929bc44003a445b2d/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Bibesh/3C_Android/FirebaseNotification/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/Bibesh/.android/build-cache/f1b59eb0b053c35f818916fa29238436a56ccda1/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/Bibesh/3C_Android/FirebaseNotification/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/Bibesh/.android/build-cache/f1b59eb0b053c35f818916fa29238436a56ccda1/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/Bibesh/3C_Android/FirebaseNotification/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/Bibesh/.android/build-cache/f1b59eb0b053c35f818916fa29238436a56ccda1/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/Bibesh/3C_Android/FirebaseNotification/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/Bibesh/.android/build-cache/f1b59eb0b053c35f818916fa29238436a56ccda1/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

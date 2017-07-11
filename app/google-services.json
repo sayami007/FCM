@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "797858188175",
+    "firebase_url": "https://fcm-project-d6ee0.firebaseio.com",
+    "project_id": "fcm-project-d6ee0",
+    "storage_bucket": "fcm-project-d6ee0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797858188175:android:64968ea06235092c",
+        "android_client_info": {
+          "package_name": "com.example.bibesh.firebasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797858188175-9dn3vmnhsqqcl0gb2d0q16hchlm3h8dc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbtLokmPqai2Qsyj2lcukHU8ErOjE_czY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
